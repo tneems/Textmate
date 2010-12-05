@@ -1,0 +1,15 @@
+[submodule "Bundles/Cappuccino.tmbundle"]
+	path = Bundles/Cappuccino.tmbundle
+	url = git://github.com/malkomalko/Cappuccino.tmbundle.git
+[submodule "Bundles/Ruby on Rails.tmbundle"]
+	path = Bundles/Ruby on Rails.tmbundle
+	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
+[submodule "Bundles/CoffeeScript.tmbundle"]
+	path = Bundles/CoffeeScript.tmbundle
+	url = git://github.com/jashkenas/coffee-script-tmbundle.git
+[submodule "Bundles/GoToFile.tmbundle"]
+	path = Bundles/GoToFile.tmbundle
+	url = git://github.com/amiel/gotofile.tmbundle.git
+[submodule "Bundles/RubyAMP.tmbundle"]
+	path = Bundles/RubyAMP.tmbundle
+	url = git://github.com/timcharper/rubyamp.git
