@@ -16,3 +16,6 @@
 [submodule "Bundles/RSpec.tmbundle"]
 	path = Bundles/RSpec.tmbundle
 	url = git://github.com/rspec/rspec-tmbundle.git
+[submodule "Bundles/Git.tmbundle"]
+	path = Bundles/Git.tmbundle
+	url = git://github.com/jcf/git-tmbundle.git
