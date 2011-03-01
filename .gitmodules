@@ -25,3 +25,6 @@
 [submodule "Bundles/Bundler.tmbundle"]
 	path = Bundles/Bundler.tmbundle
 	url = git://github.com/drnic/Bundler.tmbundle.git
+[submodule "Bundles/SproutCore.tmbundle"]
+	path = Bundles/SproutCore.tmbundle
+	url = git://github.com/sproutit/sproutcore-tmbundle.git
