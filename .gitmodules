@@ -28,3 +28,6 @@
 [submodule "Bundles/SproutCore.tmbundle"]
 	path = Bundles/SproutCore.tmbundle
 	url = git://github.com/sproutit/sproutcore-tmbundle.git
+[submodule "Bundles/Mustache.tmbundle"]
+	path = Bundles/Mustache.tmbundle
+	url = git://github.com/defunkt/Mustache.tmbundle.git
