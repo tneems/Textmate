@@ -31,3 +31,6 @@
 [submodule "Bundles/Mustache.tmbundle"]
 	path = Bundles/Mustache.tmbundle
 	url = git://github.com/defunkt/Mustache.tmbundle.git
+[submodule "Bundles/Copy as RTF.tmbundle"]
+	path = Bundles/Copy as RTF.tmbundle
+	url = git://github.com/drnic/copy-as-rtf-tmbundle.git
