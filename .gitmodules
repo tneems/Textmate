@@ -34,3 +34,6 @@
 [submodule "Bundles/Copy as RTF.tmbundle"]
 	path = Bundles/Copy as RTF.tmbundle
 	url = git://github.com/drnic/copy-as-rtf-tmbundle.git
+[submodule "Handlebars.tmbundle"]
+	path = Handlebars.tmbundle
+	url = git://github.com/drnic/Handlebars.tmbundle.git
